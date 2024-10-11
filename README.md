@@ -1,31 +1,37 @@
-### 👋 Hi, I’m @R-midolli
+# 👋 Hi, I'm @R-midolli
 
-I’m a passionate data enthusiast with a strong background in market research and a keen interest in data insights and artificial intelligence.
-I am currently focused on expanding my skills in data science and AI to drive impactful results in various domains.
+I'm a passionate data analyst with solid experience in market intelligence and a strong interest in machine learning, data engineering, and artificial intelligence.
 
-### 👀 I’m interested in:
-- Data Analytics and Market Research
-- Artificial Intelligence and Machine Learning
+## 👀 I'm interested in:
+- Data Analysis and Market Intelligence
+- Machine Learning and Artificial Intelligence
+- Data Engineering
 - Data Visualization and Insights
 
-### 🌱 I’m currently learning:
-- Advanced techniques in Data Science
-- Latest developments in AI and Machine Learning
-- Enhancements in Python programming
+## 🛠️ My skills include:
+- Advanced data analysis
+- Machine learning and AI tools
+- Data engineering techniques
+- Python and SQL
 
-### 💞️ I’m looking to collaborate on:
-- Projects related to Data Science and AI
-- Research and development in machine learning models
-- Initiatives that leverage data for impactful solutions
+## 🌱 I'm currently improving:
+- Advanced techniques in data engineering
+- Development of machine learning models
+- Implementation of AI solutions in data projects
 
-### 📫 How to reach me:
+## 💞️ I'm looking to collaborate on:
+- Data analysis and market intelligence projects
+- Machine learning and AI initiatives
+- Development of innovative solutions in data engineering
+
+## 📫 How to reach me:
 - Email: [rafaelmidolli@gmail.com](mailto:rafaelmidolli@gmail.com)
 - LinkedIn: [Rafael Midolli](https://www.linkedin.com/in/rafael-midolli/?locale=en_US)
 
-### 😄 Pronouns:
+## 😄 Pronouns:
 - He/Him
 
-### ⚡ Fun fact:
+## ⚡ Fun fact:
 - I'm an excellent guitarist and always ready for a jam session! 🎸
 
 ---
