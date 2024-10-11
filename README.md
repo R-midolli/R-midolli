@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @R-midolli
+# 👋 Hi, I'm Rafael
 
 I'm a passionate data analyst with solid experience in market intelligence and a strong interest in machine learning, data engineering, and artificial intelligence.
 
